@@ -210,7 +210,6 @@ This project is going to demonstrate the process of installing an open source ti
 </p>
 <p>
 	<img src="https://i.imgur.com/rvMvlNC.png" height="75%" width="100%" alt="continue osTicket setup"/>
-	<img src="https://i.imgur.com/YszhIpl.png" height="75%" width="100%" alt="osTicket settings"/>
 </p>
 <br />
 <br />
@@ -274,7 +273,7 @@ This project is going to demonstrate the process of installing an open source ti
 <h3 align="center">Login to the osTicket Admin Panel (http://localhost/osTicket/scp/login.php)</h3>
 <br />
 <p>
-	<img src="https://i.imgur.com/zklvv8K.png" height="75%" width="100%" alt="admin panel"/>
+	<img src="https://i.imgur.com/iFyUchA.png" height="75%" width="100%" alt="admin panel"/>
 </p>
 <br />
 <br />
