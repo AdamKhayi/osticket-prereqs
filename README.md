@@ -280,3 +280,7 @@ This project is going to demonstrate the process of installing an open source ti
 <p>
   So this is it. This is the first project detailing the process of installing osTicket
 </p>
+
+
+[Click here to go to the next project that outlines the post-install configuration of osTicket](https://github.com/AdamKhayi/post-intall) 
+
